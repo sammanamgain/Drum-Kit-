@@ -11,7 +11,7 @@ This is a simple frontend page that simulates a drum kit. When you press a key o
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 7. [License](#license)
-
+8. [Image](#image)
 ## Introduction
 
 Welcome to the Drum Kit frontend page! This project is a fun and interactive way to play virtual drums using your keyboard or touchscreen. Each drum corresponds to a specific key or clickable instrument icon, and when triggered, it will produce the sound of that particular drum.
@@ -74,6 +74,8 @@ We appreciate your help and will review your pull request as soon as possible.
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code. However, we do not provide any warranty or liability for any damage caused by using this software.
 
-## Drum Kit Frontend Page Code
+## Image
+![image](https://github.com/sammanamgain/Drum-Kit-/assets/78356846/526e9da8-d3ca-46fc-8ccc-b19c4724c268)
+
 
 `
