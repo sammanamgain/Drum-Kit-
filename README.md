@@ -38,7 +38,7 @@ The project is built using the following technologies:
 
 To run this frontend page locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/drum-kit.git`
+1. Clone the repository: `https://github.com/sammanamgain/Drum-Kit-.git`
 
 2. Navigate to the project directory: `cd drum-kit`
 
